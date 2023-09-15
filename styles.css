@@ -50,3 +50,38 @@ h1 {
    background-color: #515151;
    color: #FFFFFF;
 }
+
+#game {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#gameletter {
+    color:#FFFFFF;
+    font-size: 10rem;
+}
+
+#gameinput {
+    background-color: #d9d9d9f5;
+    width: 23rem;
+    height: 5rem;
+    color: #515151;
+    text-align: center;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    border-style: none;
+    align-self: center;
+}
+
+#scoremarker {
+    color: #616161;
+    font-size: 1.5rem;
+}
+
+span {
+    color:#616161;
+    font-size: 1.5rem;
+}
